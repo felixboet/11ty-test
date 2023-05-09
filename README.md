@@ -1,1 +1,3 @@
-# 11ty-test
+# test-project-11ty
+
+npm run dev
